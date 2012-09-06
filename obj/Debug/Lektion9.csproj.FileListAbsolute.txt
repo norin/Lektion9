@@ -1,0 +1,5 @@
+C:\Users\Björn Gustafsson\Documents\GitHub\Lektion9\Lektion9\bin\Lektion9.dll
+C:\Users\Björn Gustafsson\Documents\GitHub\Lektion9\Lektion9\bin\Lektion9.pdb
+C:\Users\Björn Gustafsson\Documents\GitHub\Lektion9\Lektion9\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Björn Gustafsson\Documents\GitHub\Lektion9\Lektion9\obj\Debug\Lektion9.dll
+C:\Users\Björn Gustafsson\Documents\GitHub\Lektion9\Lektion9\obj\Debug\Lektion9.pdb
